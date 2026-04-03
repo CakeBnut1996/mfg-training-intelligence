@@ -4,6 +4,10 @@ This project generates a topic-specific newsletter from a reusable skill file.
 
 This project is managed with `uv`.
 
+## About this newsletter skill
+
+This skill generates a curated newsletter focused on **workforce training and curriculum developments in the U.S. manufacturing sector**. It surfaces training programs, apprenticeships, workforce initiatives, and educational partnerships that have been reported in the **last 90 days**, targeting manufacturing HR professionals, training coordinators, and workforce development practitioners.
+
 ## What it does
 
 - Reads your newsletter brief from `.github/skills/newsletter-blueprint/SKILL.md`
